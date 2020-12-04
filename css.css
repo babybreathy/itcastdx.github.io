@@ -1,0 +1,20 @@
+@charset "utf-8";
+@font-face{
+	font-family: FZJZJW;
+	src:url("font/FZJZJW.TTF")
+}
+
+h2.a{
+	font-size: 30px;
+	color: black;
+	font-family: FZJZJW;
+}
+em{color: blue}
+em2{color:red}
+
+div.b{
+	height: auto;
+	width: 50%;
+	float: right;
+	font-size: 16px;
+}
